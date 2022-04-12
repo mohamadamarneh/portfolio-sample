@@ -1,2 +1,2 @@
 # portfolio-sample
-https://mohamadamarneh.github.io/portfolio-sample/portfolioSample
+https://mohamadamarneh.github.io/portfolio-sample/WP/port
